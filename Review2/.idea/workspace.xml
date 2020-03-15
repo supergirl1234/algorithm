@@ -169,7 +169,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-73" />
     <option name="y" value="21" />
     <option name="width" value="737" />
@@ -360,14 +360,16 @@
       <workItem from="1584014779777" duration="635000" />
       <workItem from="1584108245319" duration="792000" />
       <workItem from="1584186853631" duration="618000" />
+      <workItem from="1584262189876" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84068000" />
+    <option name="totallyTimeSpent" value="84694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -406,25 +408,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/comm/Solution11.java</url>
+          <url />
           <line>14</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/comm/Solution11.java</url>
+          <url />
           <line>28</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/comm/Solution21.java</url>
+          <url />
           <line>15</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/comm/Solution21.java</url>
+          <url />
           <line>40</line>
           <properties />
           <option name="timeStamp" value="13" />
